@@ -1,5 +1,3 @@
-# Customer-Segmentation
-# Unsupervised Machine Learning Project
 # ONLINE RETAIL CUSTOMER SEGMENTATION
 
 ## Problem Description
@@ -51,7 +49,7 @@ Libraries used:
 * **Cluster 1 Analysis** 
 > • Number of invoices per month • Number of invoices per day of the week
 
-* **Conclusion**
+## Conclusion
 > We have got 2 clusters by applying k means algorithm. So the customers got segmented into 2 clusters. Online Retail Customer marketing team can now use different approaches to acquire the customers.
 * **Cluster 0** 
 > * Key Figures 
@@ -70,3 +68,18 @@ Libraries used:
 > * **Top 5 Products** 
 
 > • WHITE HANGING HEART T-LIGHT HOLDER : 344 • REGENCY CAKESTAND 3 TIER : 271 • ASSORTED COLOUR BIRD ORNAMENT : 239 • PARTY BUNTING : 232 • REX CASH+CARRY JUMBO SHOPPER : 204
+
+## Here are some glimpse of few graphs, there are more in the notebook please have a look.
+<p align="left">
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/209207209-1f7992d3-66e4-4253-a436-d4eac71a0f82.png">
+  &nbsp &nbsp 
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/209207481-1d7642c7-0a69-4ab6-8dcf-b454d8e052fe.png">
+  &nbsp &nbsp
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/209207692-224d2615-7d7a-4f62-bdf1-791f4a8d2809.png">
+  &nbsp &nbsp
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/209207890-b9ed44f1-9f61-4a7f-b45a-29b59e4c151d.png">
+  &nbsp &nbsp 
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/209208074-d6a50048-82bf-44da-8fb7-aec4de6d6323.png">
+  &nbsp &nbsp 
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/209208165-9e8389a5-3c2c-4a69-b3d3-0b6580fce8d5.png">
+</p>
