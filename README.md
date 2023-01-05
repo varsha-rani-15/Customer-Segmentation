@@ -16,7 +16,6 @@ To identify major customer segments on a transnational data set which contains a
 Libraries used: 
 > • Pandas – Manipulation of tabular data in Dataframes • Numpy – Mathematical operations on arrays • Matplotlib – Visualization • Seaborn – Visualization • Sklearn – Data Modeling
 
-* **Data Modeling** 
 > We have done data inspection. The original Dataset contains 8 columns and 541909 rows.
 
 * **Data Cleaning**
